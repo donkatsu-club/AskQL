@@ -34,8 +34,10 @@
 
     
 ## 4️⃣ 문제
-### 쉬운 문제 (총 4개)
+### 1단계
 
+<details>
+<summary>문제 1번</summary>
 1. **카드번호 형식 검증 (16자리 형식이 아닌 데이터 조회)**
     
     숫자4자리-숫자4자리-숫자4자리-숫자4자리
@@ -45,7 +47,9 @@
     FROM card
     WHERE card_number NOT REGEXP '^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}$';
     ```
-    
+</details>
+<details>
+<summary>문제 2번</summary>
 2. **이메일 형식 검증 (`gmail.com` 또는 `naver.com` 도메인 조회)**
     1. 이메일 아이디 부분에 특수문자 있을 수 있음 (._%+-)
     
@@ -54,7 +58,9 @@
     FROM customer
     WHERE email REGEXP '^[a-zA-Z0-9._%+-]+@(gmail|naver)\\.com$';
     ```
-    
+ </details>
+ <details>
+<summary>문제 3번</summary>
 3. 전화번호 특정 자리 숫자 조회
     1. 전화번호 두번째 파트의 네번째 숫자가 7, 세번째 파트의 네번째 숫자가 1인 사람
     
@@ -63,7 +69,7 @@
     FROM customer
     WHERE phone_number REGEXP '^[0-9]{3}-[0-9]{3}7[0-9]-[0-9]{3}1$';
     ```
-    
+</details>    
 4. **주소 검증**
     1. 서울시 제외하고 조회
     
