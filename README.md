@@ -11,7 +11,9 @@
 - [5️⃣ 문제](#5%EF%B8%8F⃣-문제)
 - [6️⃣ 회고](#6%EF%B8%8F⃣-회고)
 
+
 <br>
+
 <br>
 
 ## 1️⃣ 프로젝트 개요
@@ -26,6 +28,9 @@
 
 </br>
 
+
+<br>
+
 ## 2️⃣ 팀원 소개
 
 ### [🙆🏻‍♂️ 팀원](#목차)
@@ -39,21 +44,27 @@
 
 ## 3️ 개발 환경 설정
 
-팀원 박영진의 노트북 Host IP로 MySQL에 접속, 동일 네트워크 환경에서 작업
-
+✏️ 팀원 박영진의 노트북 Host IP로 MySQL에 접속, 동일 네트워크 환경에서 작업
+<br>
+<br>
 <img src="https://github.com/user-attachments/assets/a7839176-8695-4840-8d9a-6b43add0fe8c" width="60%">
 
 <br>
 <br>
-Virtual Box의 포트 포워딩 설정에 Windows(Host IP)에서 Ubuntu MySQL 포트포워딩
-
+✏️ Virtual Box의 포트 포워딩 설정에 Windows(Host IP)에서 Ubuntu MySQL 포트포워딩
+<br>
+<br>
 <img src="https://github.com/user-attachments/assets/4f17c137-b87a-4f51-baaa-76dc743daaaf" width="45%">
 <br>
 <br>
-각 팀원 개인 노트북의 DBeaver로 연결
+✏️ 각 팀원 개인 노트북의 DBeaver로 연결
+<br>
 <br>
 <img src="https://github.com/user-attachments/assets/3dca6b11-a79b-413e-8807-a0c5c95889d4" width="45%">
 
+<br>
+
+<br>
 
 ## 4️⃣ ERD
 ![erd2](https://github.com/user-attachments/assets/ef161b6a-5c69-4ce8-85e3-1f5ad49a7666)
@@ -72,7 +83,13 @@ Virtual Box의 포트 포워딩 설정에 Windows(Host IP)에서 Ubuntu MySQL �
 **🤝🏻 transaction**
 
 ![image](https://github.com/user-attachments/assets/7675dc15-4e3e-4571-912f-690a96cf6fd8)
-    
+
+
+<br>
+
+<br>
+
+
 ## 5️⃣ 문제
 
 ### 😁 1단계
