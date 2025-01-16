@@ -52,21 +52,21 @@ Virtual Box의 포트 포워딩 설정에 Windows(Host IP)에서 Ubuntu MySQL �
 <br>
 
 ### 📊 데이터 예시
-**customer**
+**🛒 customer**
 
 ![image](https://github.com/user-attachments/assets/3dc5d073-f21b-48ae-a157-336f4b7b1367)
 
-**card**
+**💳 card**
 
 ![image](https://github.com/user-attachments/assets/6ec9883a-35eb-41c8-a0b4-94a5f6f5348e)
 
-**transaction**
+**🤝🏻 transaction**
 
 ![image](https://github.com/user-attachments/assets/7675dc15-4e3e-4571-912f-690a96cf6fd8)
     
 ## 5️⃣ 문제
 
-### 1단계
+### 😁 1단계
 
 **문제 1번**
 
@@ -140,7 +140,7 @@ WHERE address NOT REGEXP '서울시';
 </details>
 <br>
 
-### 2단계
+### 💥 2단계
 
 **문제 1번**
 
