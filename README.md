@@ -15,6 +15,18 @@ SQL과 정규표현식에 대한 이해도를 평가하고, 실력을 단계적�
 </br>
 
 ## 3️⃣ 팀원 소개
+---
+
+### [🙆🏻‍♂️ 팀원](#목차)
+
+
+|<img src="https://avatars.githubusercontent.com/u/80048007?v=4" width="250" height="200"/>|<img src="https://avatars.githubusercontent.com/u/79669001?v=4?v=4" width="250" height="200"/>|<img src="https://avatars.githubusercontent.com/u/179544856?v=4" width="250" height="200"/>|<img src="https://avatars.githubusercontent.com/u/115103394?v=4" width="250" height="200"/>|
+|:-:|:-:|:-:|:-:|
+|박영진<br/>[@DoomchitYJ](https://github.com/DoomchitYJ)|서소원<br/>[@PleaseErwin](https://github.com/PleaseErwin)|이은준<br/>[@2EunJun](https://github.com/2EunJun)|이현정<br/>[@nanahj](https://github.com/nanahj)|
+
+<br>
+
+---
 
 
 ## 4️⃣ ERD
