@@ -26,14 +26,45 @@
 
 <br>
 
+## 3️ 개발 환경 설정
+
+팀원 박영진의 노트북 Host Ip로 접근하여 MySQL에 접속
+<br>
+팀원 모두 동일한 네트워크 환경에서 작업
+
+<img src="https://github.com/user-attachments/assets/a7839176-8695-4840-8d9a-6b43add0fe8c" width="60%">
+
+<br>
+<br>
+Virtual Box의 포트 포워딩 설정에 Windows(Host IP)에서 Ubuntu MySQL 포트포워딩
+
+<img src="https://github.com/user-attachments/assets/4f17c137-b87a-4f51-baaa-76dc743daaaf" width="45%">
+<br>
+<br>
+각 팀원 개인 노트북의 DBeaver에서 Connection 연결
+<br>
+<img src="https://github.com/user-attachments/assets/3dca6b11-a79b-413e-8807-a0c5c95889d4" width="45%">
 
 
-## 3️ ERD
+## 4️⃣ ERD
 ![erd2](https://github.com/user-attachments/assets/ef161b6a-5c69-4ce8-85e3-1f5ad49a7666)
 
+<br>
 
+### 📊 데이터 예시
+**customer**
+
+![image](https://github.com/user-attachments/assets/3dc5d073-f21b-48ae-a157-336f4b7b1367)
+
+**card**
+
+![image](https://github.com/user-attachments/assets/6ec9883a-35eb-41c8-a0b4-94a5f6f5348e)
+
+**transaction**
+
+![image](https://github.com/user-attachments/assets/7675dc15-4e3e-4571-912f-690a96cf6fd8)
     
-## 4️⃣ 문제
+## 5️⃣ 문제
 
 ### 1단계
 
@@ -207,6 +238,6 @@ LIMIT 1;
 
 <br>
 
-## 5️⃣ 회고
+## 6️⃣ 회고
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="1000" />
