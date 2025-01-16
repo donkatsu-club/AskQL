@@ -29,7 +29,7 @@
 
 
 ## 3️ ERD
-![REG_EXP](https://github.com/user-attachments/assets/acf26ed8-fd2a-4c4b-ad59-7887ed9aab23)
+![erd](https://github.com/user-attachments/assets/7d9b19a0-9738-4f82-8ee6-600030e4ff7a)
 
 
     
