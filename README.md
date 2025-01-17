@@ -16,9 +16,10 @@
 ## 📍목차
 - [1️⃣ 프로젝트 개요](#1%EF%B8%8F⃣-프로젝트-개요)
 - [2️⃣ 팀원 소개](#2%EF%B8%8F⃣-팀원-소개)
-- [3️ 개발 환경 설정](#3%EF%B8%8F-개발-환경-설정)
+- [3️ 개발 환경 설정](#3%EF%B8%8F⃣-개발-환경-설정)
 - [4️⃣ ERD](#4%EF%B8%8F⃣-erd)
 - [5️⃣ 회고](#5%EF%B8%8F⃣-회고)
+- [6️⃣ 피드백](#6%EF%B8%8F⃣-피드백)
 
 
 <br>
@@ -100,13 +101,6 @@ GRANT ALL PRIVILEGES ON sqlab.* TO 'donkatsuclub'@'%';
 flush privileges;
 ```
 
-✏️ 팀원 박영진의 노트북 Host IP로 MySQL에 접속, 동일 네트워크 환경에서 작업
-<br>
-<br>
-<img src="https://github.com/user-attachments/assets/a7839176-8695-4840-8d9a-6b43add0fe8c" width="60%">
-
-<br>
-<br>
 ✏️ Virtual Box의 포트 포워딩 설정에 Windows(Host IP)에서 Ubuntu MySQL 포트포워딩
 <br>
 <br>
@@ -170,5 +164,19 @@ flush privileges;
 짧은 시간 안에 프로젝트를 완료해야 한다는 점이 힘들었지만, 함께 노력해준 팀원들에게 고생했다고 전하고 싶다.
 
 체계적이고 풍부한 README 파일 작성법에도 익숙해질 수 있는 기회였다.
+
+<br>
+
+## 6️⃣ 피드백
+
+1. 리드미가 전체적으로 깔끔해서 한눈에 이해하기 쉬웠어요.
+   
+2. 문제 설명이 아주 잘 되어있고 정답을 바로 확인할 수 있어서 좋았어요.
+   
+3. 난이도별로 파트를 나눠서 작성해 주셔서 문제가 무섭지 않고 스무스하게 풀었어요
+   
+4. 어려운 부분은 힌트도 주셔서 끝까지 문제 풀 수 있었어요.
+   
+5. 데이터베이스에 접속할 수 있게 아이디와 패스워드를 알려주셔서 문제 정답을 확인하기 수월했어요.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=150&section=footer" width="1000" />
