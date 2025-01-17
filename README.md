@@ -6,7 +6,7 @@
 
 <p style="font-size: 24px;">당신을 위한 SQL 학습지 ✨</p>
 
-<A href = "URL" target = "https://github.com/donkatsu-club/AskQL/blob/main/README.md" > 🤴🏻 문제 풀러 가볼까요? </A>
+<A href = "URL" target = "quiz/quiz.md" > 🤴🏻 문제 풀러 가볼까요? </A>
 
 </br>
 </div>
