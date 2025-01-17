@@ -135,3 +135,5 @@ INSERT INTO transaction (card_id, transaction_date, amount, transaction_type, st
 (23, '2025-01-16 09:40:00', 5000.00, 'REFUND', 'GS25 편의점', 'GROCERY'),
 (24, '2025-01-15 19:00:00', 250000.00, 'PAYMENT', '애플스토어', 'ELECTRONICS'),
 (25, '2025-01-16 08:30:00', 60000.00, 'PAYMENT', '서점', 'ENTERTAINMENT');
+
+commit;
