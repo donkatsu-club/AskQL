@@ -50,6 +50,32 @@
 
 ## 3️ 개발 환경 설정
 
+### 🖥️ DB 설정
+
+✏️ Database 생성
+
+```sql
+-- CREATE DATABSE 데이터베이스명
+-- default CHARACTER SET UTF8: 한글 처리에서 오류가 나지 않도록 방지하는 역할
+CREATE DATABASE sqlab default CHARACTER SET UTF8;
+```
+
+✏️ 접속하여 문제를 풀 계정 생성 및 권한 부여
+
+```sql
+-- %: 외부에서도 접속할 수 있도록 함
+-- user 생성
+CREATE USER 'donkatsuclub'@'localhost' identified BY 'donkatsuclub';
+CREATE USER 'donkatsuclub'@'%' identified BY 'donkatsuclub';
+
+-- 권한 부여
+GRANT ALL PRIVILEGE on sqlab.* TO 'donkatsuclub'@'localhost';
+GRANT ALL PRIVILEGES ON sqlab.* TO 'donkatsuclub'@'%';
+
+-- 수정사항 즉각적용
+flush privileges;
+```
+
 ✏️ 팀원 박영진의 노트북 Host IP로 MySQL에 접속, 동일 네트워크 환경에서 작업
 <br>
 <br>
@@ -66,7 +92,7 @@
 ✏️ 각 팀원 개인 노트북의 DBeaver로 연결
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/3dca6b11-a79b-413e-8807-a0c5c95889d4" width="45%">
+<img src="https://github.com/user-attachments/assets/a5d2f952-b11f-47b8-9c0d-8d9ed31c3e97" width="45%">
 
 <br>
 
@@ -197,8 +223,6 @@ WHERE ca.card_type = 'CORPORATE'
 <details>
 <summary> 힌트 🎂 </summary>
 <br>
-
-9925 8925 이런 이상한 데이터 추가해야함
 
 - 끝자리가 25인 경우 : '25$’
 - 끝자리가 25이면서 숫자로 이루어진 경우 : ^[0-9]*25$
