@@ -6,7 +6,9 @@
 
 <p style="font-size: 24px;">당신을 위한 SQL 학습지 ✨</p>
 
-<A href = "URL" target = "quiz/quiz.md" > 🤴🏻 문제 풀러 가볼까요? </A>
+<a href="quiz/quiz.md">
+  <button>🤴🏻 문제 풀러 가볼까요?</button>
+</a>
 
 </br>
 </div>
