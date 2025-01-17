@@ -51,7 +51,29 @@
 
 <br>
 
-## 3️ 개발 환경 설정
+## 3️ 개발 환경 
+
+### 🛠 기술 스택
+
+**Tech Stack**
+
+<div>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"> 
+</div>
+
+<br>
+
+**Co-work Stack**
+
+<div>
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</div>
+
+<br>
 
 ### 🖥️ DB 설정
 
