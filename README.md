@@ -126,7 +126,7 @@ WHERE card_number NOT REGEXP '^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}$';
 ```sql
 SELECT customer_id, name, email
 FROM customer
-WHERE email REGEXP '^[a-zA-Z0-9._%+-]+@(gmail|naver)\\\\.com$';
+WHERE email REGEXP '^[a-zA-Z0-9._%+-]+@(gmail|naver)\\.com$';
 ```
     
 </details>
@@ -142,7 +142,7 @@ WHERE email REGEXP '^[a-zA-Z0-9._%+-]+@(gmail|naver)\\\\.com$';
 ```sql
 SELECT *
 FROM customer
-WHERE phone_number REGEXP '^[0-9]{3}-[0-9]{3}7[0-9]-[0-9]{3}1$';
+WHERE phone_number REGEXP '^[0-9]{3}-[0-9]{3}7-[0-9]{3}1$';
 ```
 
 </details>
@@ -181,7 +181,7 @@ SELECT c.name, c.phone_number
 FROM customer c
 JOIN card ca ON c.customer_id = ca.customer_id
 WHERE ca.card_type = 'CORPORATE'
-  AND c.email NOT REGEXP '^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\\\.[a-zA-Z]{2,}$';
+  AND c.email NOT REGEXP '^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$';
 
 ```
 </details>
