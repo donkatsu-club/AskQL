@@ -1,7 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" width="1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=150&section=header" width="1000" />
 
-# 🔎 AskQL
+<div align="center">
+
+<h1 style="font-size: 36px;">🔎 AskQL</h1>
+
+<p style="font-size: 24px;">당신을 위한 SQL 학습지 ✨</p>
+
 </br>
+</div>
 
 ## 📍목차
 - [1️⃣ 프로젝트 개요](#1%EF%B8%8F⃣-프로젝트-개요)
@@ -22,9 +28,9 @@
 
 **첫째**, 고객 카드 사용 패턴 데이터를 활용한 다양한 문제를 제공합니다.
 
-**둘째**, 학습자의 이해도를 체계적으로 평가합니다.
+**둘째**, 단계별로 실력을 향상시킬 수 있도록 지원합니다.
 
-**셋째**, 단계별로 실력을 향상시킬 수 있도록 지원합니다.
+**셋째**, 학습자의 이해도를 체계적으로 평가합니다.
 
 </br>
 
@@ -282,4 +288,4 @@ LIMIT 1;
 
 체계적이고 풍부한 README 파일 작성법에도 익숙해질 수 있는 기회였다.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" width="1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=150&section=footer" width="1000" />
